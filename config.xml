@@ -12,7 +12,7 @@
    </description>  
    
    <author href="https://build.phonegap.com" email="katarina28349@hotmail.com">  
-       Danna Lucero Huerta Herrera
+   Danna Lucero Huerta Herrera
    </author>  
    
    <!-- Personaliza la aplicacion y plataforma  -->  
@@ -48,5 +48,6 @@
    <gap:splash src="res/screen/android/screen-hdpi-portrait.png"    gap:platform="android" gap:qualifier="port-hdpi" />  
    <gap:splash src="res/screen/android/screen-xhdpi-portrait.png"   gap:platform="android" gap:qualifier="port-xhdpi" />  
 
-   
+   <icon src="img/spa.png"/>
+
  </widget>  
